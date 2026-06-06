@@ -1,6 +1,4 @@
 # Face-Recognition-Attendance-System
-# Face Recognition Attendance System
-
 ## Overview
 
 The Face Recognition Attendance System is an AI-powered attendance management solution designed to automate attendance recording using real-time facial recognition. The system utilizes computer vision techniques to identify registered individuals and mark attendance automatically, eliminating the need for manual attendance processes.
